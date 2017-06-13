@@ -13,3 +13,6 @@
 )
 2. [Basic  benchmarks](https://github.com/JCardenasRdz/Julia_vs_Python/blob/master/Benchmark_notebooks/Benchmark_Python.ipynb)
 3. [Example of T1 mapping for MRI](https://github.com/JCardenasRdz/Julia_vs_Python/blob/master/T1_map_notebooks/Image_Processing_Python_final.ipynb)
+
+## - Slides
+- [Link](https://github.com/JCardenasRdz/Julia_vs_Python/blob/master/Presentation.pdf)
